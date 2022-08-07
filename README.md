@@ -1,4 +1,4 @@
-![Login Revenda Black](https://user-image)
+![Login](https://user-images.githubusercontent.com/105602625/183294180-8cfc6772-409a-4497-a9aa-71b1cec85f73.jpg)
 
 # SISTEMAS RECOMENDADO
 ```
@@ -38,4 +38,4 @@ apt install dos2unix -y; wget https://raw.githubusercontent.com/JeanRocha91x/Pai
 ☆ https://t.me/swittecnologia ☆
 ```
 
-![Login Admin Black](https://user-images.jpg)
+![Painel](https://user-images.githubusercontent.com/105602625/183294181-51292f4e-a636-4896-90fa-baf33f86f7bf.jpg)
