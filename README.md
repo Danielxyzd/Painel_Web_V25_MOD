@@ -11,7 +11,7 @@ Ubuntu 14
 apt-get update -y; apt-get upgrade -y;
 ```
 
-# INSTALAR PAINEL WEB 2022NT
+# INSTALAR PAINEL WEB V25
 ```
 wget https://raw.githubusercontent.com/JeanRocha91x/Painel_Web_V25_MOD/main/gestorssh/install ; bash install
 ```

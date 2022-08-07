@@ -48,7 +48,7 @@ rm $HOME/bdgestorssh.sql > /dev/null 2>&1
 echo -e "\E[44;1;37m    INSTALAR O PAINEL-WEB-V25     \E[0m"
 echo ""
 echo -e "                              \033[1;31mBy @SwitTecnologia\033[1;36m"
-echo -e "   Painel-2022-V25" | figlet 
+echo -e "   Painel-WEB-V25" | figlet 
 echo -e "                             \033[1;31mPAINEL-WEB-V25\033[1;36m"
 echo ""
 echo -ne "\n\033[1;32m  DEFINA UMA SENHA PARA O\033[1;33m MySQL\033[1;37m: "; read senha
